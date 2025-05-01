@@ -15,5 +15,5 @@ Pretty much all the features you need.
 
 
 ISSUES:
-Due to limited time I cared to create this, it doesn't always update whoever spawns in so just re-enabled it every so often. 
+Due to limited time I cared to create this, it doesn't always update whoever spawns in so just re-enable it every so often. 
 Maybe I'll fix it and add more features if the VP devs get on my nerves again. 
