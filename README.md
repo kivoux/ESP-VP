@@ -14,4 +14,4 @@ Visible name tags for all players
 
 Unique color for the Director (optimized for use with my DKG script)
 
-This ESP includes everything you need for a smooth and informative in-game experience.
+This ESP includes everything you need for being so silly.
