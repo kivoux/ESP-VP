@@ -2,9 +2,6 @@
 
 This is a ESP script with a custom GUI designed specifically for Valley Prison on Roblox. The script is obfuscated to make it more resistant to detection and patching by the game’s developers.
 
-Want to load in your executor? Execute this: 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kivoux/VP-ESP/refs/heads/main/VP_ESP_V2.0.lua)](https://raw.githubusercontent.com/kivoux/VP-ESP/refs/heads/main/VP_ESP_V2.0.lua"))()
-
 🔧 Features:
 
 Adjustable ESP label size via buttons
