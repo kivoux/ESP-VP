@@ -1,19 +1,17 @@
-Greetings!
+👋 Greetings!
 
-This is a full-blown ESP script with a GUI for Valley Prison. The code is obufusacated so that the developers of VP will have a harder time patching such script. 
-If the developers would ever so kindly reach out to me about appealing my false ban due to hearsay I'll gladly remove the script, but for now it is staying up! 
-I'd gladly assist them in the creation of an ANTI-CHEAT in their game, but they don't want to do such.
+This is a ESP script with a custom GUI designed specifically for Valley Prison on Roblox. The script is obfuscated to make it more resistant to detection and patching by the game’s developers.
 
+🔧 Features:
 
-FEATURES: 
+Adjustable ESP label size via buttons
 
-- Adjustable ESP label sizing
-- Proper colour coordinating for each team
+Accurate team-based color coordination
 
-Pretty much all the features you need.
+Real-time distance display in studs
 
+Visible name tags for all players
 
+Unique color for the Director (optimized for use with my DKG script)
 
-ISSUES:
-Due to limited time I cared to create this, it doesn't always update whoever spawns in so just re-enable it every so often. 
-Maybe I'll fix it and add more features if the VP devs get on my nerves again. 
+This ESP includes everything you need for a smooth and informative in-game experience.
